@@ -40,6 +40,7 @@ Node *newNode(int data)
 
     return tmp;
 }
+
 //inserting data in nodes
 /*
 @brief function insert would put a value in data part of each node at its suitable position 
